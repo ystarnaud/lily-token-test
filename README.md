@@ -22,11 +22,11 @@
 
 ![](images/stargate-5.png)
 
-6. A confirmation screen will appear and you will need to confirm in your wallet when prompted.
+6. You will then be taken a transaction preview screen and you will need to confirm transactions in your wallet when prompted.
 
 ![](images/stargate-6.png)
 
-7. Your transfer will appear at the top of the page. If you click on the icon next to the amount, you will be taken to Layerzeroscan where you can view the transaction details and status in real time.
+7. Your transfer will then appear at the top of the page. If you click on the icon next to the amount, you will be taken to [Layerzeroscan](https://layerzeroscan.com/) where you can view the transaction details and status in real time.
 
 ![](images/stargate-7.png)
 
