@@ -1,6 +1,6 @@
 # Transferring LILY from Ethereum to/from Solana
 
-1. In your web browser go to https://stargate.finance/bridge
+1. Go to https://stargate.finance/bridge
 
 [![](images/stargate-1_sm.png)](images/stargate-1.png)
 
