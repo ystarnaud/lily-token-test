@@ -6,5 +6,13 @@ Transferring LILY from Ethereum to/from Solana
 
 2. Click "Connect Wallet" and select your wallet (i.e. Metamask)
 
+[![](images/stargate-2_sm.png)](images/stargate-2.png)
 
-Select the LILY token from the list
+3. Select the LILY token from the list.
+
+![](images/stargate-3.png)
+
+4. Close the wallet selection with the "X: at the top right corner.
+
+![](images/stargate-4.png)
+
