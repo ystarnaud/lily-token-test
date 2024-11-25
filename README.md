@@ -12,7 +12,7 @@ Transferring LILY from Ethereum to/from Solana
 
 ![](images/stargate-3.png)
 
-4. Close the wallet selection with the "X: at the top right corner.
+4. Click on "Connect Solana Wallet" and select your wallet from the list (i.e. Phantom)
 
 ![](images/stargate-4.png)
-
+![](images/stargate-4b.png)
