@@ -1,4 +1,10 @@
-# Transferring LILY from Ethereum to/from Solana
+## Lily's Coin Contract Addresses
+
+Ethereum CA: **0x7ce89243cc0d9e746609c57845eccbd9bb4b7315**
+
+Solana CA: **Co5WwGeZfpfqGE1tUyAp1SBjcmumoY9sNN99MXRbX98K**
+
+## Transferring LILY from Ethereum to/from Solana
 
 1. Go to https://stargate.finance/bridge
 
